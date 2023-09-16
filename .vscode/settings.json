@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.enable": true,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.useEditorConfig": true,
+  "prettier.singleQuote": true,
+  "javascript.format.semicolons": "insert"
+}
